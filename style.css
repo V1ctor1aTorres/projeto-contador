@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body{
+     background: #E7BBE3;
+     font: normal 1.5em Arial;
+}
+
+header {
+    color: #612741;
+    text-align: center;
+}
+
+section {
+    background: #DB504A;
+    color: #612741;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.458);
+}
+div#dados{
+    text-align: left;
+    padding-left: 5px;
+}
+
+
+div#res{
+    text-align: center;
+}
+
+footer {
+    color: #612741;
+    text-align: center;
+    font-style: italic;
+}
